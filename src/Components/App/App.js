@@ -1,5 +1,8 @@
 import React from 'react';
 import './App.css';
+import SearchBar from './Components/SearchBar';
+import SearchResults from './Components/SearchResults';
+import PlayList from './Components/Playlist';
 
 function App() {
   return (
